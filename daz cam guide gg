@@ -1,0 +1,52 @@
+{
+  "Ads": {
+    "AdMob": {
+      "activated": true,
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "FAN": {
+      "activated": false,
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "ironSource": {
+      "activated": false,
+      "app_key": "85460dcd"
+    },
+    "Yandex": {
+      "interstitial": "R-M-DEMO-240x400-context"
+    }
+  },
+  "Config": {
+    "app_version": "1.0",
+    "package_name": "com.devat.guide1",
+    "rattingIsEnabled": true
+  },
+  "Privacy": {
+    "isEnabled": true,
+    "title": "Privacy Policy",
+    "message": "Privacy Policy Message",
+    "url": "https://termly.io/privacy-policy/"
+  },
+  "GuideContent": [
+    {
+      "title": "Daz Camera Settings Tutorial",
+      "This article explains you everything about the Daz3d Camera Settings. The camera is an important asset to any scene. You can’t produce a render without a camera. And knowing how to set it up and use properly will improve said renders drastically. To inform you about Daz3D camera settings is exactly why this article was created."
+    },
+    {
+      "title": "Adding Cameras",
+      "Usually virtual cameras are similar to the real-world ones. And Daz Studio is not an exception. This means that if you have experience with cameras and their settings in the real world, you already know a lot about them in a virtual setting too. But they are still quite different. Mainly because software cameras don’t need to obey any real-world laws and physics. "
+    },
+    {
+      "title": "Moving Cameras",
+      "So you added the camera to your scene. Now you need to place it, where you would want it. And you have a couple of options to do this. 
+
+First one was talked about in the previous section. You can place your viewport where you want the camera to be, and then Daz3D move the camera to perspective view.
+
+Alternatively, you can move your camera as any other object. To clarify, I mean using the transforms under “General” in the “Parameters” menu. Consequently, here you can both move and rotate your camera along any of the three main axis. Probably the most flexible and convenient way is to change your viewport to the camera view. You need to find the dropdown menu at the top right corner of a viewport. Now choose your Camera in this menu Your view will be transported to that of a camera. And now you can use any default means of moving the viewport. Such as Orbiting, Panning and Zooming. After you place the camera where you want it, just change in the same drop-down menu to the Perspective view or any other. Now you have a camera directed at anything you want."
+    }
+  ]
+}
